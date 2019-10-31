@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/BevilKunG/chim-shop-chai/static/css/main.1534c448.chunk.css",
+    "main.js": "/BevilKunG/chim-shop-chai/static/js/main.4b3ec1b1.chunk.js",
+    "main.js.map": "/BevilKunG/chim-shop-chai/static/js/main.4b3ec1b1.chunk.js.map",
+    "runtime-main.js": "/BevilKunG/chim-shop-chai/static/js/runtime-main.19c8892b.js",
+    "runtime-main.js.map": "/BevilKunG/chim-shop-chai/static/js/runtime-main.19c8892b.js.map",
+    "static/css/2.510409cd.chunk.css": "/BevilKunG/chim-shop-chai/static/css/2.510409cd.chunk.css",
+    "static/js/2.19d8877a.chunk.js": "/BevilKunG/chim-shop-chai/static/js/2.19d8877a.chunk.js",
+    "static/js/2.19d8877a.chunk.js.map": "/BevilKunG/chim-shop-chai/static/js/2.19d8877a.chunk.js.map",
+    "index.html": "/BevilKunG/chim-shop-chai/index.html",
+    "precache-manifest.db2049d48cb8b214627b9ceda9baf079.js": "/BevilKunG/chim-shop-chai/precache-manifest.db2049d48cb8b214627b9ceda9baf079.js",
+    "service-worker.js": "/BevilKunG/chim-shop-chai/service-worker.js",
+    "static/css/2.510409cd.chunk.css.map": "/BevilKunG/chim-shop-chai/static/css/2.510409cd.chunk.css.map",
+    "static/css/main.1534c448.chunk.css.map": "/BevilKunG/chim-shop-chai/static/css/main.1534c448.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19c8892b.js",
+    "static/css/2.510409cd.chunk.css",
+    "static/js/2.19d8877a.chunk.js",
+    "static/css/main.1534c448.chunk.css",
+    "static/js/main.4b3ec1b1.chunk.js"
+  ]
+}
