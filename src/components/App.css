@@ -1,0 +1,44 @@
+h1, h2, h3,
+h4, h5, h6,
+p, span, .header-text, .footer-text {
+  font-family: 'Mitr', sans-serif;
+}
+
+.text-detail {
+  font-family: 'K2D', sans-serif;
+}
+
+.text-highlight {
+  color: #E6332A;
+}
+
+.col.banner {
+  padding: 0 0;
+}
+
+.banner-image {
+  width: 100%;
+  height: 80%;
+}
+
+.hero-image {
+  position: absolute;
+  top: 12vh;
+  left: 40vw;
+}
+
+.logo-image {
+ max-width: 40%;
+}
+
+.card.card-color {
+  background: #213ABF;
+}
+
+.footer-background {
+  background: #213ABF;
+}
+
+.footer-text, .footer-text>a {
+  color: white;
+}
