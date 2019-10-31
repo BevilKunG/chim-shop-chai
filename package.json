@@ -2,7 +2,7 @@
   "name": "chim-shop-chai",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/BevilKunG/chim-shop-chai",
+  "homepage": "https://bevilkung.github.io/chim-shop-chai/",
   "dependencies": {
     "axios": "^0.19.0",
     "bootstrap": "^4.3.1",
