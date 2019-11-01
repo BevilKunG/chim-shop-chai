@@ -6,7 +6,7 @@ import Duration from './components/Duration'
 import Detail from './components/Detail'
 import CallLogo from './components/CallLogo'
 import Footer from './components/Footer'
-import './components/App.css'
+import './App.css'
 import 'bootstrap/dist/css/bootstrap.css'
 
 
