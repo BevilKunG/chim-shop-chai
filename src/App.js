@@ -18,9 +18,7 @@ class App extends Component {
   componentDidMount() {
     axios.get('https://panjs.com/ywc.json')
       .then(({ data }) => {
-        // console.log(data);
         this.setState({ jsonData: data })
-        // console.log(this.state);
       })
   }
 
