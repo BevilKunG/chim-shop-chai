@@ -15,7 +15,6 @@ class Header extends Component {
   }
 
   render() {
-    console.log(this.props);
     return (
       <nav className="navbar navbar-expand-lg navbar-light bg-light sticky-top">
         <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
