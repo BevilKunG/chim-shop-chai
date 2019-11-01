@@ -8,6 +8,7 @@ import CallLogo from './components/CallLogo'
 import Footer from './components/Footer'
 import './App.css'
 import 'bootstrap/dist/css/bootstrap.css'
+import 'bootstrap/dist/js/bootstrap.js'
 
 
 class App extends Component {

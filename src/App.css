@@ -61,6 +61,16 @@ p, span, .header-text, .footer-text {
   }
 }
 
+.navbar-toggler.navbar-hide-logo {
+  border: none;
+  padding: 0 0;
+}
+
+.header-logo {
+  width: 25%;
+  border: none;
+}
+
 .col.banner {
   padding: 0 0;
 }
