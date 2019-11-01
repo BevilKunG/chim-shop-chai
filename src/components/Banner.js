@@ -6,18 +6,23 @@ const Banner = () => {
     <div>
       <div className="row">
         <div className="col banner">
-          <img className="banner-image" src={image.bannerLeft}/>
+          <img className="banner-image" src={image.bannerLeft} alt="bannerLeft"/>
+        </div>
+
+        <div className="col banner center-banner">
+          <div className="row">
+            <div className="col-12 text-center mt-5">
+              <img className="hero-banner" src={image.banner} alt="ชิมช้อปใช้"/>
+            </div>
+          </div>
+
         </div>
 
         <div className="col banner">
-          <img className="banner-image" src={image.bannerCenter}/>
-        </div>
-
-        <div className="col banner">
-          <img className="banner-image" src={image.bannerRight}/>
+          <img className="banner-image" src={image.bannerRight} alt="bannerRight"/>
         </div>
       </div>
-      <img className="hero-image" src={image.banner} alt="ชิมช้อปใช้"/>
+
     </div>
   )
 }

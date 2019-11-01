@@ -22,9 +22,9 @@ class Footer extends Component {
       <nav className="navbar navbar-light bg-light">
           <div className="nav mx-auto">
             <div className="col">
-              <a className="navbar-brand" href="#">
-                <img src={image.footer}/>
-              </a>
+              <div className="navbar-brand">
+                <img src={image.footer} alt="footer"/>
+              </div>
             </div>
 
             <div className="col">

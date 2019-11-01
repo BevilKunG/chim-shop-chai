@@ -11,14 +11,14 @@ const Duration = (props) => {
         </div>
 
         <div>
-          <h2 className="text-highlight">{ duration }</h2>
+          <h2 className="text-highlight duration-title">{ duration }</h2>
         </div>
       </div>
 
       <div className="col-8 mx-auto mt-5">
         <div className="card text-white card-color text-center">
           <div className="card-body">
-            <p className="card-text">
+            <p className="card-text card-text-size">
             ลงทะเบียน เฟส 2<br/>
             ตั้งแต่วันที่ 24 ต.ค.62 วันละ 2 รอบ เวลา 6.00 และ 18.00 น.<br/>
             (จำกัดจำนวนผู้ลงทะเบียนรอบละ 5 แสนคน รวม 1 ล้านคนต่อวัน)
